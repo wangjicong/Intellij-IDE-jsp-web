@@ -1,0 +1,11 @@
+li{
+    list-style-type: decimal;
+    padding: 10px 0;
+    margin: 2px 0px;
+    width: 100%;
+    background: #eeeeee;
+    cursor: pointer;
+}
+li:hover{
+    background: green;
+}
